@@ -1,1 +1,10 @@
 /* custom css */
+
+body{
+	margin: 2px, 2px, 2px, 2px;
+	padding: 1px, 1px, 1px, 1px;
+}
+
+h1{
+	color:#191943;
+}
