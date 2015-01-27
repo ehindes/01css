@@ -1,10 +1,57 @@
 /* custom css */
 
-body{
+body {
+	background-color: #AAAAAF;
+	font-family: arial;
+	font-color: #000000;
+	text-align: left;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+
+h1, h3 {
+	font-family: verdana;
+	text-align: center;
+	display: block;
+	text-decoration: none;
+}
+
+h3 a {
+	display: block;
+	color: #222;
+	text-decoration: none;
+}
+
+h3 a:hover {
+	color:#FFF;
+}
+
+li{
+	margin: 0 1%;
+	padding: 10px;
+	width: 30%;
+	float:left;
+	list-style:none;
+}
+li.one {
+	margin: 0 1% 0 0;
+	background-color: #FF9999;
 	margin: 2px, 2px, 2px, 2px;
 	padding: 1px, 1px, 1px, 1px;
 }
 
-h1{
-	color:#191943;
+li.two {
+	margin: 0 1% 0 0;
+	background-color: #FF9999;
+	margin: 2px, 2px, 2px, 2px;
+	padding: 1px, 1px, 1px, 1px;
 }
+
+li.three {
+	margin: 0 1% 0 0;
+	background-color: #FF9999;
+	margin: 2px, 2px, 2px, 2px;
+	padding: 1px, 1px, 1px, 1px;
+}
+
