@@ -38,24 +38,18 @@ li{
 li.one {
 	margin: 0 1% 0 0;
 	background-color: #8D8DE2;
-	margin: 2px, 2px, 2px, 2px;
-	padding: 1px, 1px, 1px, 1px;
 	border-style: dashed;
 }
 
 li.two {
 	margin: 0 0 0 1%;
 	background-color: #8D8DE2;
-	margin: 2px, 2px, 2px, 2px;
-	padding: 1px, 1px, 1px, 1px;
 	border-style: dashed;
 }
 
 li.three {
 	margin: 0 1% 0 0;
 	background-color: #8D8DE2;
-	margin: 2px, 2px, 2px, 2px;
-	padding: 1px, 1px, 1px, 1px;
 	border-style:dashed;
 }
 
