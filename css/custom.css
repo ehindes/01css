@@ -40,6 +40,7 @@ li.one {
 	background-color: #8D8DE2;
 	margin: 2px, 2px, 2px, 2px;
 	padding: 1px, 1px, 1px, 1px;
+	border-style: solid;
 }
 
 li.two {
@@ -47,6 +48,7 @@ li.two {
 	background-color: #8D8DE2;
 	margin: 2px, 2px, 2px, 2px;
 	padding: 1px, 1px, 1px, 1px;
+	border-style: dashed;
 }
 
 li.three {
@@ -54,5 +56,6 @@ li.three {
 	background-color: #8D8DE2;
 	margin: 2px, 2px, 2px, 2px;
 	padding: 1px, 1px, 1px, 1px;
+	border-style: solid;
 }
 
