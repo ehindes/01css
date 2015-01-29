@@ -27,16 +27,10 @@ h3 a:hover {
 	color: #FFF;
 }
 
-ul {
-	margin: 0;
-	padding: 0;
-	width: 100%;
-}
-
 li{
 	margin: 0 1%;
 	padding: 10px;
-	width: 100%;
+	width: 30%;
 	float: left;
 	list-style:none;
 }
