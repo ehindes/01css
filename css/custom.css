@@ -28,7 +28,7 @@ h3 a:hover {
 }
 
 li{
-	margin: 0 2%;
+	margin: 0 1%;
 	padding: 10px;
 	width: 30%;
 	float: left;
@@ -36,7 +36,7 @@ li{
 }
 
 li.one {
-	margin: 0 2% 0 0;
+	margin: 0 1% 0 0;
 	background-color: #8D8DE2;
 	margin: 2px, 2px, 2px, 2px;
 	padding: 1px, 1px, 1px, 1px;
@@ -44,7 +44,7 @@ li.one {
 }
 
 li.two {
-	margin: 0 2% 0 0;
+	margin: 0 1% 0 0;
 	background-color: #8D8DE2;
 	margin: 2px, 2px, 2px, 2px;
 	padding: 1px, 1px, 1px, 1px;
@@ -52,7 +52,7 @@ li.two {
 }
 
 li.three {
-	margin: 0 2% 0 0;
+	margin: 0 1% 0 0;
 	background-color: #8D8DE2;
 	margin: 2px, 2px, 2px, 2px;
 	padding: 1px, 1px, 1px, 1px;
